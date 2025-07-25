@@ -1,1 +1,1 @@
-worker: python slikair_bot.py
+worker: python bot.py
